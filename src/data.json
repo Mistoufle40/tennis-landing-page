@@ -8,7 +8,7 @@
       { "label": "Tarifs", "href": "#services" },
       { "label": "Contact", "href": "#contact" }
     ],
-    "logo": "/assets/tennis-logo.png"
+    "logo": "assets/tennis-logo.png"
   },
   "hero": {
     "title": "Améliorez votre jeu!",
@@ -18,7 +18,7 @@
     "title": "À propos",
     "description1": "Passionné de tennis depuis plus de 15 ans, j’accompagne joueurs débutants et confirmés pour progresser dans la bonne humeur. Mon objectif est de rendre chaque leçon agréable et enrichissante, tout en développant la confiance et les compétences de mes élèves.",
     "description2": "Je transmets non seulement des compétences techniques, mais aussi l’amour du jeu.",
-    "coachImage": "/assets/images/RicardoPicture.jpg"
+    "coachImage": "assets/images/RicardoPicture.jpg"
   },
   "services": [
     {
